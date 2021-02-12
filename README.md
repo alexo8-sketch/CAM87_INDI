@@ -1,5 +1,5 @@
-# indi_cam86_ccd
-Indilib driver for CAM86 diy camera (Sony ICX453AQ)
+# indi_cam87_ccd
+Indilib driver for CAM87 diy camera (Sony ICX453AQ)
 
 This project is based on Ukrainian telescope amateurs work
 

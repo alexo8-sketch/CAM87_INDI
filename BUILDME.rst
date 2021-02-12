@@ -30,8 +30,8 @@ Clone cam87 driver somewhere on your machine (here ~/tmp)
   cd
   mkdir tmp
   cd tmp
-  git clone https://github.com/gehelem/indi_cam87_ccd.git
-  cd indi_cam87_ccd
+  git clone https://github.com/alexo8-sketch/CAM87_INDI.git
+  cd CAM87_INDI
 
 Then switch to my lastest code :
 
@@ -66,7 +66,7 @@ From here you can run the driver like that :
 
 .. code-block:: shell
 
-  indiserver -v -m 100 ./indi_cam87_ccd
+  indiserver -v -m 100 ./CAM87_INDI
 
 you can also install the driver into your environemnt :
 
